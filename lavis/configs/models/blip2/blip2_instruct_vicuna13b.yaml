@@ -8,7 +8,9 @@ model:
   load_finetuned: False
   load_pretrained: True
 
-  pretrained: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/InstructBLIP/instruct_blip_vicuna13b_trimmed.pth"
+#  TODO!
+#  pretrained: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/InstructBLIP/instruct_blip_vicuna13b_trimmed.pth"
+  pretrained: "../tmp/20230727071/checkpoint_49.pth"
   finetuned: ""
 
   # vit encoder
@@ -22,7 +24,7 @@ model:
   num_query_token: 32
 
   # path to Vicuna checkpoint
-  llm_model: "./llm/vicuna-13b"
+  llm_model: "/localdata_ssd/vicuna-13b-after_add-v1.1"
 
   # generation configs
   prompt: ""

@@ -29,6 +29,20 @@ class COCOCapBuilder(BaseDatasetBuilder):
     }
 
 
+from lavis.datasets.datasets.coco_caption_datasets import (
+    AutonomousDrivingCapDataset
+)
+
+@registry.register_builder("autonomous_driving_caption")
+class AutonomousDrivingCapBuilder(BaseDatasetBuilder):
+    train_dataset_cls = AutonomousDrivingCapDataset
+    eval_dataset_cls = AutonomousDrivingCapDataset
+
+    DATASET_CONFIG_DICT = {
+        "default": "configs/datasets/autonomous_driving/defaults_cap.yaml",
+    }
+
+
 @registry.register_builder("nocaps")
 class COCOCapBuilder(BaseDatasetBuilder):
     eval_dataset_cls = NoCapsEvalDataset

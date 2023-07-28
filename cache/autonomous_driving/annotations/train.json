@@ -1,0 +1,252 @@
+[
+  {
+    "image": "LW433B120N10149781669184755321.png",
+    "caption": "Road construction ahead, there are construction vehicles on the right front, the road ahead has enough space to pass. Decision: Slowly follow the road ahead straight ahead.",
+    "image_id": "LW433B120N10149781669184755321"
+  },
+  {
+    "image": "LW433B120N10234991676605117242.png",
+    "caption": "There is a guardrail at the intersection ahead, and there are pedestrians ahead on the right. Decision: Go slowly, wait for the guardrail to rise and pass.",
+    "image_id": "LW433B120N10234991676605117242"
+  },
+  {
+    "image": "LW433B120P10105281678773898414.png",
+    "caption": "The traffic policeman on the left front holds a detector and a walkie-talkie, signaling to stop and detect drunk driving. Decision: Stop now.",
+    "image_id": "LW433B120P10105281678773898414"
+  },
+  {
+    "image": "LW433B121N10239161679721686906.png",
+    "caption": "There is a traffic policeman directly ahead, the traffic policeman did not use gestures to command, the road on the right side of the traffic policeman is empty. Decision: Change lane to the right to avoid traffic police.",
+    "image_id": "LW433B121N10239161679721686906"
+  },
+  {
+    "image": "LW433B121P10009801677114076005.png",
+    "caption": "There is a pedestrian pushing a baby carriage moving to the left near the front. Decision: Turn right after passing with pedestrians.",
+    "image_id": "LW433B121P10009801677114076005"
+  },
+  {
+    "image": "LW433B121P10054831678072726943.png",
+    "caption": "The road is under construction on the right, and there are construction workers waving to move forward in front of the left. Decision: Go straight on the current road.",
+    "image_id": "LW433B121P10054831678072726943"
+  },
+  {
+    "image": "LW433B121P10109431678247541047.png",
+    "caption": "Pedestrians are about to cross the road on the left. Decision: Stop and wait for pedestrians to pass by.",
+    "image_id": "LW433B121P10109431678247541047"
+  },
+  {
+    "image": "LW433B122N10086331667720437467.png",
+    "caption": "The uphill road ahead is congested, and parking is strictly prohibited if there is no parking space on the mountain. Decision: Back and around.",
+    "image_id": "LW433B122N10086331667720437467"
+  },
+  {
+    "image": "LW433B122N10098941684489069396.png",
+    "caption": "There is traffic police ahead on the right, and the traffic police wave to the vehicle on the right. Decision: Keep going straight.",
+    "image_id": "LW433B122N10098941684489069396"
+  },
+  {
+    "image": "LW433B122N10165711677713780073.png",
+    "caption": "There is a traffic policeman directly ahead, the traffic policeman is facing the front left, and there are red and white vehicles further away. Decision: Wait for the traffic police to give way, then go straight and follow the vehicle ahead.",
+    "image_id": "LW433B122N10165711677713780073"
+  },
+  {
+    "image": "LW433B122N10181431667801620615.png",
+    "caption": "There is construction on the left and right sides, a car suddenly appears in front of the right and moves quickly to the left. Decision: Brake hard and wait for the vehicle ahead to pass.",
+    "image_id": "LW433B122N10181431667801620615"
+  },
+  {
+    "image": "LW433B122N10393021675239781360.png",
+    "caption": "There is a crosswalk ahead on the left, no traffic lights, pedestrians are crossing the road. Decision: Wait for pedestrians to pass and then drive to the left.",
+    "image_id": "LW433B122N10393021675239781360"
+  },
+  {
+    "image": "LW433B122N10490191678836991181.png",
+    "caption": "The blue vehicle and the white vehicle in front turn left, there is a traffic policeman directly ahead, and the traffic policeman is waving to move forward. Decision: Go ahead and turn left.",
+    "image_id": "LW433B122N10490191678836991181"
+  },
+  {
+    "image": "LW433B122N10506381677814884411.png",
+    "caption": "A construction worker is sitting on a tricycle bulldozing and is moving forward slowly. Decision: Change lane to the left to bypass the tricycle in front.",
+    "image_id": "LW433B122N10506381677814884411"
+  },
+  {
+    "image": "LW433B122P10117311675604964457.png",
+    "caption": "The current vehicle is traveling fast, there is a crosswalk ahead, and pedestrians holding umbrellas are crossing the road. Decision: Slow down and come to a stop.",
+    "image_id": "LW433B122P10117311675604964457"
+  },
+  {
+    "image": "LW433B123N10021451676168246630.png",
+    "caption": "There is a vehicle driving in the distance in front of you, there are traffic police on the left and right, and the traffic police signal to stop. Decision: Stop now.",
+    "image_id": "LW433B123N10021451676168246630"
+  },
+  {
+    "image": "LW433B123N10145681681970099651.png",
+    "caption": "In the construction area ahead, there are construction vehicles blocking the road. Decision: Back and around.",
+    "image_id": "LW433B123N10145681681970099651"
+  },
+  {
+    "image": "LW433B123N10471511674543294430.png",
+    "caption": "There are pedestrians preparing to pass in front of the right, and traffic police in front of the left, the traffic police signal to stop. Decision: Stop now.",
+    "image_id": "LW433B123N10471511674543294430"
+  },
+  {
+    "image": "LW433B124N10037901682726172357.png",
+    "caption": "Most of the road ahead is impassable due to construction, only a small road is left on the far right. Decision: Change right to the rightmost lane.",
+    "image_id": "LW433B124N10037901682726172357"
+  },
+  {
+    "image": "LW433B124N10076141680497024008.png",
+    "caption": "There is a road ahead, pedestrians on the road are passing, and there is a U-turn icon on the ground. Decision: Turn left.",
+    "image_id": "LW433B124N10076141680497024008"
+  },
+  {
+    "image": "LW433B124N10090411684711368375.png",
+    "caption": "There is a construction area ahead, and a large number of vehicles are driving to the left in front of the right. Decision: Stop and wait for the vehicle ahead on the right to pass.",
+    "image_id": "LW433B124N10090411684711368375"
+  },
+  {
+    "image": "LW433B124N10121651684230423757-2.png",
+    "caption": "The vehicle on the left front is driving to the left, there is a traffic policeman directly ahead, and the traffic policeman signals to stop. Decision: Brake immediately.",
+    "image_id": "LW433B124N10121651684230423757-2"
+  },
+  {
+    "image": "LW433B124N10121651684230423757.png",
+    "caption": "There is a traffic policeman directly ahead, and the traffic policeman is waving his hand to signal the vehicle ahead on the left to move forward. Decision: Keep still.",
+    "image_id": "LW433B124N10121651684230423757"
+  },
+  {
+    "image": "LW433B124N10322231677917151341.png",
+    "caption": "There is a traffic policeman on the left front, the traffic policeman stretches out his hand to signal to stop. Decision: Stop now.",
+    "image_id": "LW433B124N10322231677917151341"
+  },
+  {
+    "image": "LW433B125N10049331674320587999.png",
+    "caption": "There are pedestrians holding umbrellas directly ahead, and the current vehicle is turning left to leave the parking lot. Decision: Drive slowly to the left.",
+    "image_id": "LW433B125N10049331674320587999"
+  },
+  {
+    "image": "LW433B125N10081111666665344845.png",
+    "caption": "There is a traffic police on the left front, the traffic police signal to go forward to the traffic police, and there is a vehicle stopping directly in front. Decision: Change lane to the left and drive to the traffic police on the left front.",
+    "image_id": "LW433B125N10081111666665344845"
+  },
+  {
+    "image": "LW433B125N10171161674370198342.png",
+    "caption": "There is a traffic police command in the front right, and the vehicle in front starts to start from a standstill. Decision: Start and follow the vehicle ahead.",
+    "image_id": "LW433B125N10171161674370198342"
+  },
+  {
+    "image": "LW433B125N10202431673780481296.png",
+    "caption": "Pedestrian crossing ahead, there are pedestrians with umbrellas on the left front ready to pass. Decision: Stop and wait for pedestrians to pass.",
+    "image_id": "LW433B125N10202431673780481296"
+  },
+  {
+    "image": "LW433B125N10204221681725317962.png",
+    "caption": "There is construction on the right front, there is a battery car coming in front, the distance is relatively short. Decision: Brake immediately.",
+    "image_id": "LW433B125N10204221681725317962"
+  },
+  {
+    "image": "LW433B125N10226241679473469773.png",
+    "caption": "The road construction ahead, there are several construction workers standing nearby, the left side of the construction road is passable. Decision: Drive slowly to the left.",
+    "image_id": "LW433B125N10226241679473469773"
+  },
+  {
+    "image": "LW433B125N10497261684715155896.png",
+    "caption": "There are a large number of traffic police ahead, the road to the right of the traffic police is empty, and the traffic police do not direct the road. Decision: Turn right.",
+    "image_id": "LW433B125N10497261684715155896"
+  },
+  {
+    "image": "LW433B126N10034661676332514594.png",
+    "caption": "There is traffic police ahead on the right, and the traffic police wave to direct the vehicles on the right. Decision: Keep going straight on the current road.",
+    "image_id": "LW433B126N10034661676332514594"
+  },
+  {
+    "image": "LW433B126N10079711667552267256.png",
+    "caption": "The forked road ahead, the right front is a pedestrian road, and there is a guardrail in front of it. Decision: Drive to the left.",
+    "image_id": "LW433B126N10079711667552267256"
+  },
+  {
+    "image": "LW433B126N10097701665560440097.png",
+    "caption": "The traffic policeman in the left front holds a sign and waves to the distance, signaling to move forward. Decision: Start moving forward now.",
+    "image_id": "LW433B126N10097701665560440097"
+  },
+  {
+    "image": "LW433B126N10156171679618139689.png",
+    "caption": "The construction on the right front is impassable, there is an oncoming vehicle on the left front, and a battery car is passing right in front. Decision: Wait for the vehicle ahead on the left to pass and then change lanes to the left.",
+    "image_id": "LW433B126N10156171679618139689"
+  },
+  {
+    "image": "LW433B126N10484861679838267309.png",
+    "caption": "There is a crosswalk ahead, and the traffic light in the distance changes from red to green. Decision: Start and go straight on the current road.",
+    "image_id": "LW433B126N10484861679838267309"
+  },
+  {
+    "image": "LW433B126P10077631683769543364.png",
+    "caption": "There is a police car and the vehicle involved in the accident on the left front, and the traffic police in front are waving to move forward. Decision: Slight right to change lanes and stay straight on the road.",
+    "image_id": "LW433B126P10077631683769543364"
+  },
+  {
+    "image": "LW433B127N10355221677816385584.png",
+    "caption": "The construction ahead caused most of the roads to be impassable, and there were several battery cars passing along the left lane in front of the left. Decision: Change lane to the left and follow the battery car straight.",
+    "image_id": "LW433B127N10355221677816385584"
+  },
+  {
+    "image": "LW433B127P10054381683627035114.png",
+    "caption": "There are three battery cars on the left front, a battery car is passing right in front, and a car is in front of the right. Decision: Drive slowly straight ahead.",
+    "image_id": "LW433B127P10054381683627035114"
+  },
+  {
+    "image": "LW433B127P10149021676936942677.png",
+    "caption": "There are pedestrians in front of you walking towards the left, and the traffic light on the right is red. Decision: Wait for the pedestrian in front to pass and then drive to the right.",
+    "image_id": "LW433B127P10149021676936942677"
+  },
+  {
+    "image": "LW433B127P10461041682479432754.png",
+    "caption": "The construction ahead cannot go straight, there is a car parked on the left front and right front respectively. Decision: Backtrack and backtrack.",
+    "image_id": "LW433B127P10461041682479432754"
+  },
+  {
+    "image": "LW433B128N10032431663467611972.png",
+    "caption": "There is a construction area ahead, and there are a large number of vehicles and battery cars passing in the front left. Decision: Wait for the vehicle on the left to pass before changing lanes to the left.",
+    "image_id": "LW433B128N10032431663467611972"
+  },
+  {
+    "image": "LW433B128N10367271669976898117.png",
+    "caption": "A battery car wearing a raincoat is driving in the distance directly ahead, and a pedestrian is preparing to cross the crosswalk in front of the right. Decision: Keep still.",
+    "image_id": "LW433B128N10367271669976898117"
+  },
+  {
+    "image": "LW433B129N10091811678443793117.png",
+    "caption": "There is a traffic police in the front left, the traffic police wave the flag to signal to move forward. Decision: Start and follow the current path.",
+    "image_id": "LW433B129N10091811678443793117"
+  },
+  {
+    "image": "LW433B129N10204691678751662037.png",
+    "caption": "Construction area ahead, vehicles driving from right to left ahead. Decision: Wait for the vehicle to pass and then drive to the left.",
+    "image_id": "LW433B129N10204691678751662037"
+  },
+  {
+    "image": "LW433B129P10124721676942714244.png",
+    "caption": "There is traffic police ahead on the left, and the traffic police signal the vehicle on the left to move forward. Decision: Keep still.",
+    "image_id": "LW433B129P10124721676942714244"
+  },
+  {
+    "image": "LW433B12XN10259381675642219350.png",
+    "caption": "The vehicle on the left front is stationary, and there is a traffic police in the distance directly ahead, and the traffic police signal the vehicle on the right to pass. Decision: Hold still and wait for the vehicle ahead on the left to start.",
+    "image_id": "LW433B12XN10259381675642219350"
+  },
+  {
+    "image": "LW433B12XN10304301676951691694.png",
+    "caption": "There is a construction area on the sidewalk ahead, and there are pedestrians walking left on the right front. Decision: Back up and go forward left.",
+    "image_id": "LW433B12XN10304301676951691694"
+  },
+  {
+    "image": "LW433B12XN10475041676016689259.png",
+    "caption": "There is a crosswalk on the left, pedestrians on the left front are waiting to cross the crosswalk. Decision: Continue to turn left and cross the crosswalk.",
+    "image_id": "LW433B12XN10475041676016689259"
+  },
+  {
+    "image": "LW433B12XP10099841679736960873.png",
+    "caption": "The road ahead is congested, and there is a white vehicle directly ahead. Decision: Stand still and wait for the vehicle ahead to pass first.",
+    "image_id": "LW433B12XP10099841679736960873"
+  }
+]

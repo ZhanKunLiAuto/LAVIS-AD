@@ -395,12 +395,14 @@ class RunnerBase:
             else:
                 # if no validation split is provided, we just save the checkpoint at the end of each epoch.
                 if not self.evaluate_only:
-                    self._save_checkpoint(cur_epoch, is_best=False)
+                    if (cur_epoch + 1) % 25 == 0:
+                        self._save_checkpoint(cur_epoch, is_best=False)
 
             if self.evaluate_only:
                 break
 
-            dist.barrier()
+            # TODO
+            # dist.barrier()
 
         # testing phase
         test_epoch = "best" if len(self.valid_splits) > 0 else cur_epoch
@@ -464,13 +466,15 @@ class RunnerBase:
             dataset=self.datasets[split_name],
         )
         results = self.task.evaluation(model, data_loader)
+        print('evaluation results', results)
 
-        if results is not None:
-            return self.task.after_evaluation(
-                val_result=results,
-                split_name=split_name,
-                epoch=cur_epoch,
-            )
+        # TODO
+        # if results is not None:
+        #     return self.task.after_evaluation(
+        #         val_result=results,
+        #         split_name=split_name,
+        #         epoch=cur_epoch,
+        #     )
 
     def unwrap_dist_model(self, model):
         if self.use_distributed:
